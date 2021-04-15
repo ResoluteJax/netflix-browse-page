@@ -1,0 +1,24 @@
+/*
+             -- BY OTÁVIO HENRIQUE --
+            Email para contato: otavio-henrique10@hotmail.com 
+            linkedin link do perfil: https://www.linkedin.com/in/otávio-henrique-filgueiras-2746a120a/ 
+            Gibhub link do perfil: https://github.com/ResoluteJax  
+*/
+@media screen and (max-width:700px){
+    header .container{
+    display: flex;
+    flex-direction: column;
+    }
+
+    .botao{
+        margin-top: 5px;
+        width: 300px;
+    }
+
+}
+
+@media screen and (min-width:1000px){
+    .descricao{
+        width: 50%;
+    }
+}
